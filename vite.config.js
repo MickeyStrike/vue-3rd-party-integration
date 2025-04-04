@@ -10,7 +10,7 @@ export default defineConfig({
   },
   build: {
     lib: {
-      entry: './main.js',
+      entry: './src/main.js',
       name: 'Greeter',
       formats: ['umd'],
       fileName: 'compiled-greeter-component'

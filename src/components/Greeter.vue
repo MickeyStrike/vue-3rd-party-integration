@@ -26,6 +26,7 @@ export default {
 
 <style scoped>
 button {
+  cursor: pointer;
   padding: 8px 16px;
   background: #42b883;
   color: white;
